@@ -37,13 +37,6 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
-    },
-    "DPMods-JDX4UJ": {
-      "hwid": "69ABFEDE250CB7B1",
-      "expireDate": "2026-10-23",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
     }
   }
 }
